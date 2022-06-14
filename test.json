@@ -1,0 +1,11 @@
+{
+    "type": "str",
+    "object": {
+        "lead_id": 123,
+        "group_id": 12345,
+        "user_id": 12352,
+        "form_id": 1
+    },
+    "group_id": 5123,
+    "secret": "str"
+}
